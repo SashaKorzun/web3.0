@@ -1,0 +1,18 @@
+img.cat-img {
+    float: left;
+    width: 75px;
+    height: 75px;
+    display: block;
+}
+
+p {
+    font-size: 20px;
+    text-align:justify;
+}
+
+img.img{
+    margin-right: 16px;
+    display: block;
+    width: 115px;
+    height: 115px;
+}
